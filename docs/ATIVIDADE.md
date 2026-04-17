@@ -4,12 +4,12 @@
 Este projeto faz parte de um experimento acadêmico para avaliar esforço de compreensão e esforço de modificação em diferentes arquiteturas de software.
 
 ## Sua tarefa
-1. Identificar a arquitetura usada no projeto.
-2. Justificar com base na estrutura do código.
-3. Identificar a classe que deve ser alterada
-4. Implementar a feature de cálculo de descontos no carrinho.
-5. Realizar testes de ponta a ponta para validar a implementação.
-6. Executar os testes até que todos passem.
+1. Identificar a arquitetura usada no projeto. -> Arquitetura MVC "padrão" do Spring Boot.
+2. Justificar com base na estrutura do código. -> Pastas Controller, Service e Repository
+3. Identificar a classe que deve ser alterada -> ServicoCarrinho.java
+4. Implementar a feature de cálculo de descontos no carrinho. - OK
+5. Realizar testes de ponta a ponta para validar a implementação. - OK
+6. Executar os testes até que todos passem. - OK
 
 ## Regras que precisam ser implementadas
 
